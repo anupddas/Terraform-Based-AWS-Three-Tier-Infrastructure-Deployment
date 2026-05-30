@@ -8,7 +8,7 @@ The infrastructure provisions a custom VPC, public and private subnets, internet
 
 ## Architecture
 
-![Architecture](docs/architecture/architecture.png)
+![Architecture](docs/architecture/architecture.png.png)
 
 ## Architecture Components
 
@@ -64,15 +64,15 @@ Validated deployment by:
 
 ### VPC
 
-![VPC](docs/screenshots/01-vpc.png)
+![VPC](docs/screenshots/01-vpc.png.png)
 
 ### EC2 Instance
 
-![EC2](docs/screenshots/06-ec2-instance.png)
+![EC2](docs/screenshots/06-ec2-instance.png.png)
 
 ### Web Server
 
-![Web](docs/screenshots/09-nginx-page.png)
+![Web](docs/screenshots/09-nginx-page.png.png)
 
 ## Key Learnings
 
